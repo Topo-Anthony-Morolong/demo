@@ -1,4 +1,4 @@
 # DEMO
 
 Git and GITHUB connectivity.
-first time was a mess.
+First time was a mess.
